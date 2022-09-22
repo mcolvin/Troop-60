@@ -1,0 +1,80 @@
+---
+title: "Troop 60"
+output: 
+  html_document:
+    includes:
+      after_body: _includes/include_footer-no-disqus.html
+      in_header: _includes/header_banner.html 
+---
+
+<!--
+library(knitr)
+rmarkdown::render_site("index.Rmd")# build website
+rmarkdown::render_site()# build website
+-->
+
+## About us
+
+We are Troop 60 serving Columbia, Missouri and fresh to Scouting community with weekly Wednesday night meetings. 
+
+## Meeting and event schedule
+
+September 28: First meeting at[Venture Out Ropes Course](https://ventureout.missouri.edu/)
+
+* Location: [2003 S Providence Rd, Columbia, MO 65203](https://goo.gl/maps/tbuShWswR7hL3p7a7)
+* Meeting will be at the Venture Out Ropes Course at the Leadership course! This should be a fun first get-together with a bit of team building and adventure mixed in! 
+
+October 5th (7pm): Troop meeting
+
+* Location: The Crossing [3615 Southland Dr](https://goo.gl/maps/CK6JjYVLxYwRYgzj8)
+
+October 12th (7pm): School off, no meeting!
+
+October 19th (7pm): Troop meeting
+
+* Location: The Crossing [3615 Southland Dr](https://goo.gl/maps/CK6JjYVLxYwRYgzj8)
+
+October 26th (7pm): Troop meeting
+
+* Location: The Crossing [3615 Southland Dr](https://goo.gl/maps/CK6JjYVLxYwRYgzj8)
+* Scouts will be planning for a hike on 10/29 at Rock Bridge Park    
+
+October 29th (**Saturday**; 9am): Troop outing!
+
+* Location: Rock Creek Park
+* Scout-led hike!
+
+November 2nd (7pm): Troop meeting
+
+* Location: The Crossing [3615 Southland Dr](https://goo.gl/maps/CK6JjYVLxYwRYgzj8)
+* Advancement
+
+November 9th (7pm): Troop meeting
+
+* Location: The Crossing [3615 Southland Dr](https://goo.gl/maps/CK6JjYVLxYwRYgzj8)
+
+November 16th (7pm): Troop meeting
+
+* Location: The Crossing [3615 Southland Dr](https://goo.gl/maps/CK6JjYVLxYwRYgzj8)
+
+November 23nd: Holiday break, no meeting!
+
+November 30th (7pm): Troop meeting
+
+* Location: The Crossing [3615 Southland Dr](https://goo.gl/maps/CK6JjYVLxYwRYgzj8)
+
+December 7th (7pm): Troop meeting
+
+* Location: The Crossing [3615 Southland Dr](https://goo.gl/maps/CK6JjYVLxYwRYgzj8)
+* Advancement
+
+December 14th (7pm): Troop meeting
+
+* Location: The Crossing [3615 Southland Dr](https://goo.gl/maps/CK6JjYVLxYwRYgzj8)
+* Count of honor
+
+December 28th (TBD): Troop outing
+
+* Location: Hidden valley ski trip [LINK](www.hiddenvalleyski.com)
+* Trip contingent on interest and adequate ski conditions
+

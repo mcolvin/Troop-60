@@ -1,18 +1,13 @@
 ---
-title: Colophon
-permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
-comments: false
+title: About
+permalink: /about/
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
 
-If you have a question about him or else, just send a letter to him.
+You can find the source code for the Jekyll new theme at:
+[sleek](https://github.com/janczizikow/sleek)
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
-
-**may u needs ✨**
-
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+You can find the source code for Jekyll at
+[jekyll](https://github.com/jekyll/jekyll)

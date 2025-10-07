@@ -1,92 +1,71 @@
-# Site settings
-title: Klise Theme # site title
-description: >- # site description
-  He's writing in Bahasa about web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
-lang: en-US # default lang
-timezone: Asia/Jakarta # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
-mode: dark # default theme "dark" | "light"
+# SITE CONFIGURATION
+title: Sleek # your site title
+author: GitHub User # You :P
+description: > # Meta description of Homepage
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "/sleek" # the subpath of your site, e.g. /blog
+url: "https://janczizikow.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Profile settings
-author:
-  name: Jekyll Klisé # author name
-  bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
-  username: username # general username
-  github: github_username # github username
-  twitter: twitter_username # twitter username
-  facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
-  avatar: /assets/img/avatar.jpg # change with your own avatar
+# SEO PLUGIN
+social:
+  name: Your Name
+  links:
+    - https://twitter.com/BenBalter
+    - https://www.facebook.com/ben.balter
+    - https://www.linkedin.com/in/BenBalter
+    - https://plus.google.com/+BenBalter
+    - https://github.com/benbalter
+    - https://keybase.io/benbalter
 
-# URL settings
-url: "https://klise.now.sh" #
-baseurl:
-permalink: /:title/
-google_analytics: # leave it blank if not wish
-fb_appid:
+# THEME SETTINGS
+navigation: # Navigation links
+  - {name: 'Home', link: '/'}
+  - {name: 'About', link: '/about'}
+  - {name: 'Contact', link: '/contact'}
 
-# Collection setting
-collections:
-  posts:
-    output: true
+tagline: >
+  Modern Jekyll theme focused on speed performance &amp; SEO best practices
 
-# Markdown settings
+hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+
+email: your-email@domain.com # email for form submission
+
+twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
+github_username:  janczizikow # replace with your_github_username or comment to remove link from footer
+instagram_username: shanlongjj # replace with your_instagram_username or comment to remove link from footer
+
+disqus:
+  shortname: janczizikow # to enable comments replace with your_disqus_shortname
+
+# google_tag_manager: GTM-XXXXXXX # Uncomment to enable GTM. Replace GTM-XXXXXXX with your GTM container ID
+
+service_worker: true
+
+# BUILD SETTINGS
 markdown: kramdown
-highlighter: rouge
-kramdown:
-  syntax_highlighter: rouge
-
-# Default front matter
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: post
-      comments: false
-
-# Jekyll Compose default front matter
-jekyll_compose:
-  post_default_front_matter:
-    modified:
-    tags: []
-    description:
-  draft_default_front_matter:
-    modified:
-    tags: []
-    description:
-
-# Homepage limit posts
-number_of_posts: 5
-
-# Build settings
-# theme: klise
-sass:
-  style: compressed
-
-include:
-  - _redirects
-  - .htaccess
-
+highlighter: rouge # or pygments or null
+# theme: jekyll-sleek # Uncomment if you're using the theme as a ruby gem
 exclude:
-  - CNAME
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - CHANGELOG.md
   - README.md
   - node_modules
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - lighthouse.png
-  - klise-*.gem
-  - klise.gemspec
+  - script
+  - package.json
+  - package-lock.json
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - npm-debug.log
+  - gulpfile.js
+  - sleek.jpg
 
-# Plugins
+include: ['_pages']
+permalink: /:title/
+
+compress_html:
+  clippings: all
+
 plugins:
-  - jekyll-feed
   - jekyll-sitemap
-  - jekyll-postfiles
+  - jekyll-seo-tag

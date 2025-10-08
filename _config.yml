@@ -167,6 +167,7 @@ include:
   - .htaccess
   - _pages
 exclude:
+  - "*.code-workspace"
   - "*.sublime-project"
   - "*.sublime-workspace"
   - vendor

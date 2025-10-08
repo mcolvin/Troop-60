@@ -1,7 +1,7 @@
 ---
 title: "Calendar"
 permalink: /calendar/
-layout: default
+layout: single
 author_profile: true
 ---
 

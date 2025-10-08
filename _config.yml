@@ -102,10 +102,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:comotroop60scouts@gmail.com
+      #url: mailto:comotroop60scouts@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://www.comotroop60.com/"
+      url: "https://www.comotroop60.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       #url: "https://twitter.com/jagrosh"
@@ -114,7 +114,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/jagrosh"
+      #url: "https://github.com/jagrosh"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"

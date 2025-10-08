@@ -1,6 +1,7 @@
 ---
 title: "Resources"
 permalink: /resources/
+layout: single
 toc: true
 ---
 

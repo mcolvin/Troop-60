@@ -3,9 +3,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "default"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Troop 60"
+title                    : "Great Rivers Council Troop 60"
 title_separator          : "-"
-subtitle                 : ""
+subtitle                 : "Columbia, MO"
 name                     : "SM"
 description              : "Stuff we do"
 url                      : "https://mcolvin.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -94,18 +94,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "M.E. Colvin"
+  name             : "Troop 60"
   avatar           : "/assets/images/greenwave.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I fixed a bug once."
-  location         : "United States"
-  email            : "xxx@mail.com"
+  bio              : "Since 2022"
+  location         : "Columbia, MO, USA"
+  email            : "comotroop60scouts@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: mailto:j@gro.sh
+      url: mailto:comotroop60scouts@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: ""
+      url: "https://www.comotroop60.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       #url: "https://twitter.com/jagrosh"
@@ -130,7 +130,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mcolvin"
+      #url: "https://github.com/mcolvin"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

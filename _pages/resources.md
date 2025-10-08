@@ -1,7 +1,7 @@
 ---
 title: "Resources"
 permalink: /resources/
-layout: posts
+layout: default
 author_profile: true
 ---
 

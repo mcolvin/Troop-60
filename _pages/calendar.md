@@ -1,7 +1,7 @@
 ---
 title: "Calendar"
 permalink: /calendar/
-layout: posts
+layout: default
 author_profile: true
 ---
 

@@ -1,12 +1,29 @@
 ---
-title: "Calendar"
+title: "Troop Calendar"
 permalink: /calendar/
 layout: single
 author_profile: true
+toc: true
+toc_label: "Month"
 ---
 
-# Troop Calendar
+For 2025-2026
 
-haerwe
+# October
 
-here
+# November
+
+# December
+
+# January
+
+# February
+
+# March
+
+# April
+
+# May
+
+# June
+

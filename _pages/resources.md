@@ -1,12 +1,10 @@
 ---
-title: "Resources"
+title: "Troop Resources"
 permalink: /resources/
-layout: default
+layout: single
 author_profile: true
 ---
 
-# Troop Resources
+# Frequently Asked Questions
 
-haerwe
-
-here
+Pending

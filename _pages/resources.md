@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-* [Outdoor Code](/outdoor-code)
+* [Outdoor Code](/outdoor-code/)
 
 # Frequently Asked Questions
 

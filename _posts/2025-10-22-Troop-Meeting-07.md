@@ -11,9 +11,10 @@ share: false
 
 # Announcements
 
-* Popcorn and Burgers sales
-    * Final sales due: 
-    * Product delivery: 
+* [Upcoming events/troop schedule](/calendar/)
+* [Popcorn and Burgers sales](/fund-raising-2025)
+    * Final sales due: November 3rd order forms and money
+    * Product delivery: November 13th and 14th
 * Bike Hike (Details below subject to change) 
     * November 1st based on responses
     * Meet at Mill Creek Elementary (Subject to change depending on trail head).

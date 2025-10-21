@@ -25,8 +25,10 @@ toc_label: "Month"
     * **Meeting location**: Meet at Mill Creek Elementary
     * **Meeting time**: Pending
     * **Pickup time**: Pending
+* 11/03 Final sales due. Order forms and money
 * 11/05 Troop Meeting 8 
 * 11/12 Troop Meeting 9 
+* 11/13-11/14 Product delivery
 * 11/16 Campout 
     * Details pending
 * 11/19 Troop Meeting 10 

@@ -11,8 +11,8 @@ share: false
 
 # Announcements
 
-* [Upcoming events/troop schedule](/calendar/)
-* [Popcorn and Burgers sales](/fund-raising-2025)
+* [Upcoming events/troop schedule](/troop-60/calendar/)
+* [Popcorn and Burgers sales](/troop-60/fund-raising-2025)
     * Final sales due: November 3rd order forms and money
     * Product delivery: November 13th and 14th
 * Bike Hike (Details below subject to change) 

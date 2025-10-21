@@ -1,5 +1,5 @@
 ---
-title: "Troop Meeting 6 (10/15)"
+title: "Troop Meeting 7 (10/22)"
 categories:
   - Meeting
 tags:

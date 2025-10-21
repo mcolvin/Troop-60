@@ -13,7 +13,7 @@ The troop receives 48% commission on sales of Trails End Popcorn and Burger's me
 * Funds also defray other troop costs like the annual charter renewal. 
 
 
-## Important Dates and other information
+# Important Dates and other information
 
 * **November 3rd.** Orders and money must be submitted to the troop leaders!
 * **November 13th and 14th.** Final order pickup and distribution to scouts. 

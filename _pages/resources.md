@@ -7,6 +7,7 @@ author_profile: true
 
 
 * [Popcorn and Burger Sales 2025](/Troop-60/fundraising-2025/)
+* [Ten essentials](/Troop-60/ten-essentials/)
 * [Outdoor Code](/Troop-60/outdoor-code/)
 
 # Frequently Asked Questions

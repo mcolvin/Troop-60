@@ -13,7 +13,7 @@ toc_label: "Month"
 * 10/15 Troop Meeting 6 
 * 10/22 Troop Meeting 7
 * 10/25 Mizzou Merit Badge University
-    * [Click for details](/Troop-60/MMBU-details-2025/)
+    * [Click for details](/Troop-60/activity/MMBU-details-2025/)
 * 10/29 No Meeting
 
 

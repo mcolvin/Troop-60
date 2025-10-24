@@ -13,9 +13,7 @@ toc_label: "Month"
 * 10/15 Troop Meeting 6 
 * 10/22 Troop Meeting 7
 * 10/25 Mizzou Merit Badge University
-    * **Meeting location**: Meet at the Nifong Hy-Vee parking lot to carpool to campus
-    * **Meeting time**: 7:45 am, leaving for campus at 8 am
-    * **Pickup time**: 5 pm is when the Merit Badge University is scheduled to wrap up. In the past we have returned earlier. We will use a group text to communicate when we are leaving campus. 
+    * [Click for details](/Troop-60/MMBU-details-2025/)
 * 10/29 No Meeting
 
 
@@ -36,7 +34,7 @@ toc_label: "Month"
 # December
 
 * 12/03 Troop Meeting 11
-* 10/06 Troop Outing: Hike 
+* 12/06 Troop Outing: Hike 
     * Details pending
 * 12/10 Troop Meeting 12
 * 12/17 Troop Meeting 13

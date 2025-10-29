@@ -20,7 +20,8 @@ author_profile: true
     1. Tweezers
     1. Scissors
     1. CPR breathing barrier
-    1. Small bar of soap or small bottle of    1. alcohol-based hand-sanitizing gel
+    1. Small bar of soap or small bottle of    
+    1. alcohol-based hand-sanitizing gel
     1. Pencil and paper or small notebook
     1. Small tube of antibiotic ointment (optional)
     1. Small tube of hydrocortisone cream (optional)

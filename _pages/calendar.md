@@ -20,9 +20,7 @@ toc_label: "Month"
 # November
 
 * 11/01 Bike hike (Second Class Requirement)
-    * **Meeting location**: Meet at Mill Creek Elementary
-    * **Meeting time**: Pending
-    * **Pickup time**: Pending
+    * [Click for details](/Troop-60/activity/bike-hike/)
 * 11/03 Final sales due. Order forms and money
 * 11/05 Troop Meeting 8 
 * 11/12 Troop Meeting 9 

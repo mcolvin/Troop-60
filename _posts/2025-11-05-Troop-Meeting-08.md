@@ -17,7 +17,7 @@ share: false
     * Bike Hike Summary
 * Upcoming activities
     * Popcorn & Burgers Pickup 11/13 and 11/14
-    * Camping 11/15 to 11/16
+    * Camping 11/15 to 11/16; Location TBD
 
 
 # Meeting program

@@ -14,6 +14,7 @@ share: false
 * **Meeting date and time**: 9:45 to depart by 10 am Saturday 11/15
 * **Meeting location**: Hy-Vee parking lot (405 E Nifong Blvd)
 * **Pickup time**: We plan to return to the Hy-Vee parking lot (405 E Nifong Blvd) at 10 am 11/16
+* We will be camping at Rock Bridge Memorial State Park Special Use Area [MAP](https://maps.app.goo.gl/vUxZfA2bihgnL9DR9)
 * **What should your scout bring**
     * A checklist for personal gear to bring. [PDF](/Troop-60/assets/docs/20251115-campout-checklist.pdf)
     * Forecast is for 70s Saturday afternoon and an overnight low of 40. 

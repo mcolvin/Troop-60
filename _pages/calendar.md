@@ -26,7 +26,7 @@ toc_label: "Month"
 * 11/12 Troop Meeting 9 
 * 11/13-11/14 Product delivery
 * 11/16 Campout 
-    * Details pending
+    * [Click for details](/Troop-60/activity/camping-rbspsua/)
 * 11/19 Troop Meeting 10 
 
 # December

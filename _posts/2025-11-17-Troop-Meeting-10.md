@@ -28,6 +28,8 @@ share: false
     * What could be better
 * Hike planning
     * Where?
+    * What time?
+    * What to bring?
     * Why? Part fun, but others need a 5 miler for 2nd class!
 
 

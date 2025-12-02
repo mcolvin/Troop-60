@@ -7,15 +7,14 @@ toc: true
 toc_label: "Month"
 ---
 
+# December
 
-# October
-
-* 10/15 Troop Meeting 6 
-* 10/22 Troop Meeting 7
-* 10/25 Mizzou Merit Badge University
-    * [Click for details](/Troop-60/activity/MMBU-details-2025/)
-* 10/29 No Meeting
-
+* 12/03 Troop Meeting 11
+* 12/06 Troop Outing: Hike 
+    * [Click for details](/Troop-60/activity/hike-20251206/)
+* 12/10 Troop Meeting 12
+* 12/17 Troop Meeting 13
+    * Court of honor and holiday party!
 
 # November
 
@@ -29,14 +28,19 @@ toc_label: "Month"
     * [Click for details](/Troop-60/activity/camping-rbspsua/)
 * 11/19 Troop Meeting 10 
 
-# December
 
-* 12/03 Troop Meeting 11
-* 12/06 Troop Outing: Hike 
-    * Details pending
-* 12/10 Troop Meeting 12
-* 12/17 Troop Meeting 13
-    * Court of honor and holiday party!
+# October
+
+* 10/15 Troop Meeting 6 
+* 10/22 Troop Meeting 7
+* 10/25 Mizzou Merit Badge University
+    * [Click for details](/Troop-60/activity/MMBU-details-2025/)
+* 10/29 No Meeting
+
+
+
+
+
 
 **Troop operations resume January 7, 2026!**
 

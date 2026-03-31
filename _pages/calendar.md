@@ -10,16 +10,36 @@ toc_label: "Month"
 
 # 2026
 
-## January
 
-* 01/07 Troop Meeting 14
-* 01/14 Troop Meeting 15
-* 01/21 Troop Meeting 16
-* 01/24 Klondike derby
-    * Contingent on enough scouts attending!
-    * Cost $15
-* 01/28 Troop Meeting 17
+## April
 
+* 4/1: Meeting 26
+* 4/8: Meeting 27
+* 4/11 Service project: 
+* 4/15: Meeting 28
+* 4/22: Meeting 29
+* 4/29: Meeting 30
+
+
+## May
+
+* 5/3: Meeting 31
+* 5/13: Meeting 32
+* 5/20: Meeting 33. Last meeting of the year
+
+## June
+
+* 6/7-6/13: Scout Camp at Lake of the Ozarks Scout Reservation
+
+---
+
+## March
+
+* 03/04 Troop Meeting 22
+* 03/07 Trooping outing - Pioneering camp out at Camp Hillard 
+* 03/11 Troop Meeting 23
+* 03/18 Troop Meeting 24
+* 03/25 Troop Meeting 25
 
 ## February
 
@@ -30,15 +50,15 @@ toc_label: "Month"
 * 02/18 Troop Meeting 20
 * 02/25 Troop Meeting 21
 
+## January
 
-## March
-
-* 03/04 Troop Meeting 22
-* 03/07 Trooping outing - Pioneering camp out at Camp Hillard 
-* 03/11 Troop Meeting 23
-* 03/18 Troop Meeting 24
-* 03/25 Troop Meeting 25
-
+* 01/07 Troop Meeting 14
+* 01/14 Troop Meeting 15
+* 01/21 Troop Meeting 16
+* 01/24 Klondike derby
+    * Contingent on enough scouts attending!
+    * Cost $15
+* 01/28 Troop Meeting 17
 
 # 2025
 

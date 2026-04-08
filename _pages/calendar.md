@@ -15,7 +15,8 @@ toc_label: "Month"
 
 * 4/1: Meeting 26
 * 4/8: Meeting 27
-* 4/11 9-11 Service project. Litter pick up at the playground area of Cosmo Park at 1615 Business Loop 70 W
+* 4/11 9-11 am Service project. 
+    * Litter pick up at the playground area of Cosmo Park at 1615 Business Loop 70 W
 * 4/15: Meeting 28
 * 4/22: Meeting 29
 * 4/29: Meeting 30

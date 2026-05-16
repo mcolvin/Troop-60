@@ -1,6 +1,6 @@
 ---
 title: "Summer Camp 2026"
-permalink: /summer-camp/
+permalink: /summer-camp-26/
 layout: single
 author_profile: true
 ---
@@ -11,7 +11,6 @@ author_profile: true
 * Departing for camp. We will carpool down, but you are welcome to drive your scout and his gear to camp if you wish. 
     * Departing from Columbia 6/8 at 1:00 pm from Grindstone Hy-Vee Parking Lot. Plan to arrive early to pack gear in the trailer
     * Return to Columbia on 6/14 (early to mid-morning, depending on checkout time). 
-    * Contact info: Mike Colvin 515-520-0564
 
 
 # BSA Health Physical form [LINK](https://filestore.scouting.org/filestore/HealthSafety/pdf/680-001_ABC.pdf)
@@ -38,10 +37,15 @@ Parts A, B1, and B2 are completed, and an examining physician for all scouts sig
 | Pillow                                     | Pocket knife                    |
 | Flashlight and extra   batteries           | Compass                         |
 
-(a)	Scouts will be walking a lot during the day. A second pair, in case the first pair gets wet, is a good idea. 
-(b)	Showers are available at camp, and scouts can shower daily if they desire
+(a) Scouts will be walking a lot during the day. A second pair, in case the first pair gets wet, is a good idea.   
+
+(b)	Showers are available at camp, and scouts can shower daily if they desire  
+
 (c)	Scouts can sleep in the canvas wall tents provided, OR they can set up one of the troop tents. If they plan to stay in a wall tent, a cot is nice for sleeping. If they plan to sleep in a troop tent, then a sleeping pad will be used—the troop tents cannot fit cots.  
+
 (d)	The trading post is open for set hours daily, and scouts can spend money there for items like juice, soda, candy, and camp souvenirs. Lake of the Ozarks Scout Reservation hats, T-shirts, and sweatshirts are available for purchase. We do not know the exact price, but $20-$40 will likely be sufficient for one of the items. 
+
+
 
 ## Other notes
 

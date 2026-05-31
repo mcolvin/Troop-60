@@ -9,8 +9,8 @@ author_profile: true
 # Departure and return details
 
 * Departing for camp. We will carpool down, but you are welcome to drive your scout and his gear to camp if you wish. 
-    * Departing from Columbia 6/8 at 1:00 pm from Grindstone Hy-Vee Parking Lot. Plan to arrive early to pack gear in the trailer
-    * Return to Columbia on 6/14 (early to mid-morning, depending on checkout time). 
+    * Departing from Columbia 6/7 at 10:30 pm from Grindstone Hy-Vee Parking Lot. Plan to arrive at 10:30 to pack gear.
+    * Return to Columbia on 6/13 (early to mid-morning, depending on checkout time). 
 
 
 # BSA Health Physical form [LINK](https://filestore.scouting.org/filestore/HealthSafety/pdf/680-001_ABC.pdf)

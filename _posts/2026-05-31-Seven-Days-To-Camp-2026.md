@@ -1,5 +1,5 @@
 ---
-title: "7 Days until camp"
+title: "Almost time for camp!"
 categories:
   - info
 tags:

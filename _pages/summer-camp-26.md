@@ -9,7 +9,7 @@ author_profile: true
 # Departure and return details
 
 * Departing for camp. We will carpool down, but you are welcome to drive your scout and his gear to camp if you wish. 
-    * Departing from Columbia 6/7 at 10:30 am from Grindstone Hy-Vee Parking Lot. Plan to arrive at 10:30 am to pack gear.
+    * Departing from Columbia 6/7 at 11:30 am from Grindstone Hy-Vee Parking Lot. Plan to arrive at 11:00 am to pack gear.
     * Return to Columbia on 6/13 (early to mid-morning, depending on checkout time). 
 
 

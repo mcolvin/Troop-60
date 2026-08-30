@@ -4,7 +4,7 @@ permalink: /calendar/
 layout: single
 author_profile: true
 toc: true
-toc_label: "Month"
+toc_label: "Type"
 ---
 
 

@@ -9,9 +9,6 @@ toc_label: "Cycle"
 
 
 
-# Troop 60 — Full Meeting Agendas
-
-
 
 ## CYCLE 1: SCOUT BASICS & CITIZENSHIP
 **September 2026 | M1–M5**

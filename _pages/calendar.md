@@ -1,5 +1,5 @@
 ---
-title: "Troop Calendar (2026-2027)"
+title: "Troop 60 Calendar (2026-2027)"
 permalink: /calendar/
 layout: single
 author_profile: true

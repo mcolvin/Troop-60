@@ -1,6 +1,6 @@
 ---
-title: "Troop 60 Parents Handout"
-permalink: /parents-handout/
+title: "Troop 60 Parents Handout (2026)"
+permalink: /parents-handout-26/
 layout: single
 author_profile: true
 toc: true

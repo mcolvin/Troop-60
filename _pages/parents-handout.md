@@ -7,7 +7,7 @@ toc: true
 ---
 
 
-# Troop 60 Parents Meeting Handout
+
 
 Below is an overview of important Troop 60 operations and policies.
 

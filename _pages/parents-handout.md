@@ -24,11 +24,11 @@ We communicate with parents and scouts via email and text message when appropria
 
 A Scout is thrifty is one of the 12 points of the Scout Law. We strive to minimize costs associated with scouting and believe cost should not be a barrier to joining scouting. Between generous support from Impact and South Rotary and fundraising opportunities like Popcorn and Burgers sales, it is possible for a scout to cover all fees! Some expenses incurred are overviewed below. 
     
-    * **Registration**. Registration in Scouting America can be a moving target at times, with some Scouts needing renewal at varying intervals. Feel free to reach out if you want to know when your scout needs to renew their registration. The Troop strives to defray costs associated with registration when possible. 
-    * **Uniforms**. The troop has established a uniform closet with Class A uniforms for scouts to use, provided they fit. 
-    * **Activities**. Activities like Merit Badge Colleges, campouts, and other outdoor events may incur costs associated with participation, which are determined on a case-by-case basis. In general, expenses related to activities vary from 5-27 dollars. 
-    * **Scout Camp**. During the summer, we plan to return to the Lake of the Ozarks Scout Ranch. This is a fantastic opportunity for scouts to learn outdoor and leadership skills. We attempt to defray costs when possible, and in the past, Scouts have covered the costs of Camp with Popcorn/Burger sales. Cost is approximately $300, which covers meals and program for 6 days! Camperships are available for scouts in need and are best identified early. 
-    * **Meeting time and location**. The current meeting time is 7 pm on Wednesday when Columbia Public Schools is in session. We meet at Mill Creek Elementary School.  
+* **Registration**. Registration in Scouting America can be a moving target at times, with some Scouts needing renewal at varying intervals. Feel free to reach out if you want to know when your scout needs to renew their registration. The Troop strives to defray costs associated with registration when possible. 
+* **Uniforms**. The troop has established a uniform closet with Class A uniforms for scouts to use, provided they fit. 
+* **Activities**. Activities like Merit Badge Colleges, campouts, and other outdoor events may incur costs associated with participation, which are determined on a case-by-case basis. In general, expenses related to activities vary from 5-27 dollars. 
+* **Scout Camp**. During the summer, we plan to return to the Lake of the Ozarks Scout Ranch. This is a fantastic opportunity for scouts to learn outdoor and leadership skills. We attempt to defray costs when possible, and in the past, Scouts have covered the costs of Camp with Popcorn/Burger sales. Cost is approximately $300, which covers meals and program for 6 days! Camperships are available for scouts in need and are best identified early. 
+* **Meeting time and location**. The current meeting time is 7 pm on Wednesday when Columbia Public Schools is in session. We meet at Mill Creek Elementary School.  
 
 ## Uniforms
 

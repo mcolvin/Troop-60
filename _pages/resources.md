@@ -8,6 +8,7 @@ toc: false
 
 ## 2026-2027 
 
+* [Scout Oath, Law, Motto, Slogan and Outdoor Code](/Troop-60/scout-resources//)
 * [Parents Handout 2026](/Troop-60/parents-handout-26/)
 * [Meeting Agendas 2026](/Troop-60/meeting-agendas-26/)
 * [Ten essentials](/Troop-60/ten-essentials/)

@@ -10,6 +10,8 @@ toc_label: "Type"
 
 ## FULL MEETING CALENDAR
 
+[Add to your google calendar](https://calendar.google.com/calendar/u/0?cid=MDhjMzQxNmU0OTBiNDIzOWVlN2EzODg1YWRhZGI3MjgzNWRlMjU3NTIyYTgzZmQxNjJjODg2YmQyYTVkODk5MUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
 | M# | Date | Theme | Domain | Scout Rank | Campout Link |
 |---|---|---|---|---|---|
 | M1 | Sep 2 | CoH + Parents Meeting + New Scout Orientation | Program launch | S-6a/6b assigned | — |

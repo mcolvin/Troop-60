@@ -6,14 +6,14 @@ author_profile: true
 ---
 
 
-# Boy Scout Oath (or Promise)
+# Scout Oath (or Promise)
 
 On my honor, I will do my best
 To do my duty, to God and my country, and to obey the Scout Law;
 To help other people at all times;
 To keep myself physically strong, mentally awake, and morally straight.
 
-# Boy Scout Law
+# Scout Law
 
 A Scout is:
 1. Trustworthy,
@@ -29,11 +29,11 @@ A Scout is:
 1. Clean, and
 1. Reverent
 
-# Boy Scout Motto
+# Scout Motto
 
 Be Prepared!
 
-# Boy Scout Slogan
+# Scout Slogan
 
 Do a Good Turn Daily!
 
